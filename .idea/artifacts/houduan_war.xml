@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="houduan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tlfarchetype.war">
+      <element id="artifact" artifact-name="houduan:war exploded" />
+    </root>
+  </artifact>
+</component>
